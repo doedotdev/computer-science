@@ -9,6 +9,9 @@ Algorithms, Complexity Analysis, High Level Analysis, Sorting, Searching, Trees 
 - Linked List of Linked List
 - Heap / Min Heap / Max Heap
 
+### Misc
+- Hashing
+- Checksum
 
 ### Trie
 - Implement
@@ -27,6 +30,8 @@ Algorithms, Complexity Analysis, High Level Analysis, Sorting, Searching, Trees 
 - Binary Search
 
 ### Trees
+- N-ary Tree
+- Graphs - Network
 - Binary Search Tree
 - Breadth First Search
 - Depth First Search
