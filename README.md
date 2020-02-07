@@ -44,6 +44,19 @@ Algorithms, Complexity Analysis, High Level Analysis, Sorting, Searching, Trees 
 - Any Base to IEEE Format
 
 
+### Prime Number Fun
+- Detection
+- Optimization
+- Usage
+
+
 ### High Level Computer Science Questions
 - OOP
 - Python
+   - Iron vs Jython vs Cython vs Pypy
+
+### Coding Exercises
+- Project Euler - in another repo?
+- Algo Expert
+- https://medium.com/free-code-camp/solving-a-google-interview-question-python-2-code-included-eddefcaeffb2
+- https://medium.com/free-code-camp/bet-you-cant-solve-this-google-interview-question-4a6e5a4dc8ee
