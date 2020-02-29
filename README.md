@@ -28,6 +28,7 @@ Algorithms, Complexity Analysis, High Level Analysis, Sorting, Searching, Trees 
 - Selection Sort
 - Bubble Sort
 - Binary Search
+- Tim Sort
 
 ### Trees
 - N-ary Tree
