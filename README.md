@@ -50,6 +50,8 @@ Algorithms, Complexity Analysis, High Level Analysis, Sorting, Searching, Trees 
 - Detection
 - Optimization
 - Usage
+- Sister Primes
+- Neighbor Primes
 
 
 ### High Level Computer Science Questions
