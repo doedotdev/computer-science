@@ -56,6 +56,7 @@ Algorithms, Complexity Analysis, High Level Analysis, Sorting, Searching, Trees 
 
 ### High Level Computer Science Questions
 - OOP
+- Functional
 - Python
    - Iron vs Jython vs Cython vs Pypy
 
