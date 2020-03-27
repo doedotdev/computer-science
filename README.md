@@ -31,6 +31,8 @@ Algorithms, Complexity Analysis, High Level Analysis, Sorting, Searching, Trees 
 - Tim Sort
 - Insertion Sort
 
+Sparse Matrix Compression ( Both ways )
+
 ### Trees
 - N-ary Tree
 - Graphs - Network
