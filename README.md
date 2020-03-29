@@ -31,7 +31,14 @@ Algorithms, Complexity Analysis, High Level Analysis, Sorting, Searching, Trees 
 - Tim Sort
 - Insertion Sort
 
-Sparse Matrix Compression ( Both ways )
+
+### Matrices
+- Column Major
+- Row Major
+- Sparse Matrices
+- Coordinate Format (COO)
+- Compressed Sparse Row Format (CSR)
+
 
 ### Trees
 - N-ary Tree
